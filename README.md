@@ -51,8 +51,19 @@ Estoy emocionado por las oportunidades de crecimiento y colaboración que GitHub
   
 </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=JefersonPilligua&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=JefersonPilligua&theme=gotham&hide_border=false)
+<h2 align="center">
+<p align="center">
+	
+![](https://github-readme-stats.vercel.app/api?username=JefersonPilligua&theme=gotham&hide_border=false&include_all_commits=false&count_private=false) </br>
+</p>
+</h2>
+
+<h2 align="center">
+<p align="center">
+	
+![](https://github-readme-streak-stats.herokuapp.com/?user=JefersonPilligua&theme=gotham&hide_border=false) </br>
+ </p>
+</h2>
 
 
 <h2 align="center">
