@@ -2,7 +2,7 @@
 
 <h4 align="center">
 :computer: I am a systems engineer 😄 <br>
-:computer: Currently studying from 4Geeks 🤓
+:computer: Full Stack Developer 🤓
 </h4>
 
 <!--
